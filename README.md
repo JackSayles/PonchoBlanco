@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Ponch Blanco
 
-You can use the [editor on GitHub](https://github.com/JackSayles/PonchoBlanco/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A trail running site for trail runners needing resources and tips as well as a place for those who might be interested in trail running.
 
 ### Markdown
 
