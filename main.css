@@ -4,7 +4,7 @@
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00339.jpg?raw=true);
   background-size: cover;
   color: #ffffff;
-  height: 500px;
+  height: 1000px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
@@ -19,3 +19,12 @@
   margin: 0 0 8px;
   color: #fff;
 }
+
+.jumbotron-special {
+  display: flex;
+  align-items: center;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00319.jpg?raw=true);
+  background-size: cover;
+  color: #ffffff;
+  height: 1000px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
