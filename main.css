@@ -9,12 +9,6 @@
   margin-bottom: 0;
 }
 
-.container .jumbotron {
-    padding-top: 3px;
-    padding-bottom: 3px;
-  top: 0;
-}
-
 .jumbotron p {
   color: #000000;
 }
@@ -24,6 +18,8 @@
 .jumbotron h1 {
   font-size: 60px;
   font-weight: 700;
+  padding-top: 3px;
+  padding-bottom: 3px;
   color: #000000;
 }
 
