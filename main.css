@@ -21,7 +21,10 @@
   color: #000000;
 }
 
-
+.container img {
+ display: flex;
+ align-items: bottom right;
+}
 
 .jumbotron h3 {
   margin: 0 0 8px;
