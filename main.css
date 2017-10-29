@@ -9,6 +9,10 @@
   margin-bottom: 0;
 }
 
+.container {
+  margin-top: 10px 0; 
+}
+
 .jumbotron h1 {
   font-size: 60px;
   font-weight: 700;
