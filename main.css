@@ -10,7 +10,7 @@
 }
 
 .jumbotron .container {
-  position: relative;
+  position: top;
   top: 0;
 }
 
