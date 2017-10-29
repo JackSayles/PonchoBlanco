@@ -21,6 +21,13 @@
   color: #000000;
 }
 
+img {
+  display: block;
+  margin: right;
+  border: 3px solid white;
+  width: 30%;
+}
+
 .jumbotron h3 {
   margin: 0 0 8px;
   color: #000000;
