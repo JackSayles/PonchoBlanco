@@ -9,6 +9,14 @@
   margin-bottom: 0;
 }
 
+.jumbotron .container {
+  position: relative;
+  top: 100px;
+}
+
+.jumbotron p {
+  color: #000000;
+}
 
 }
 
