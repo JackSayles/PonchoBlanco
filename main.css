@@ -1,6 +1,6 @@
 .jumbotron {
   display: flex;
-  align-items: none;
+  align-items: center;
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00339.jpg?raw=true);
   background-size: cover;
   color: #000000;
@@ -10,7 +10,6 @@
 }
 
 .jumbotron h1 {
-  align-items: center;
   font-size: 60px;
   font-weight: 700;
   padding-top: 3px;
@@ -24,7 +23,6 @@
 
 img {
   border: 2px solid white;
-  align-self: flex-end;
 }
 
 .jumbotron h3 {
