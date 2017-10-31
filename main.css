@@ -56,3 +56,9 @@ img {
 li {
   color: #ffffff;
 }
+
+p {
+  color: #ffffff;
+  font-size: 30px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
