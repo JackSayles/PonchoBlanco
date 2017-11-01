@@ -60,6 +60,7 @@ li {
 p {
   color: #0066ff;
   font-size: 15px;
+  text-align: left;
   text-shadow: 0.25px 0.25px 0.25px #000000;
   margin-top:5%;
   margin-left: 28%;
