@@ -22,9 +22,8 @@
   color: #000000;
 }
 
-.jumbotron p #standard {
+.jumbotron p {
   color: #000000;
-  margin-left 15% !important;
 }
 
 .btn.btn-primary {
