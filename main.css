@@ -75,6 +75,13 @@ img {
   margin: 10 10;
 }
 
+.jumbotron-aboutme h3 {
+  color: #ffffff;
+  }
+
+.jumbotron-aboutme p {
+  color:#FFFF00; 
+}
 li {
   color: #ffffff;
 }
