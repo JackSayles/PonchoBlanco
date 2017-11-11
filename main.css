@@ -49,6 +49,7 @@ img {
 
 .jumbotron-special {
   display: flex;
+  position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00329.jpg?raw=true);
   background-size: cover;
