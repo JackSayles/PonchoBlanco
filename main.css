@@ -4,9 +4,9 @@
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/On%20the%20way%20to%20Fontana%20Dam.jpg?raw=true);
   background-size: cover;
-  color: #000000;
+  color: #000000;/*black*/
   height: 100%;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
 }
@@ -20,7 +20,7 @@
   font-size: 60px;
   font-weight: 700;
   padding-top: 10%;
-  color: #000000;
+  color: #000000;/*black*/
 }
 
 .jumbotron p {
@@ -31,9 +31,9 @@
 .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #000000;
+  color: #000000;/*black*/
   text-shadow: none;
-  background-color: #ffffff;
+  background-color: #ffffff;/*white*/
 }
 
 img {
@@ -44,7 +44,7 @@ img {
 
 .jumbotron h3 {
   margin: 0 0 8px;
-  color: #000000;
+  color: #000000;/*black*/
 }
 
 .jumbotron-special {
@@ -53,8 +53,8 @@ img {
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00329.jpg?raw=true);
   background-size: cover;
-  color: #000000;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
+  color: #000000;/*black*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
 }
@@ -65,9 +65,9 @@ img {
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/LeConte-1.JPG?raw=true);
   background-size: cover;
-  color: #000000;
+  color: #000000;/*black*/
   /*text-shadow: 0.25px 0.25px 0.25px #000000;*/
-  text-shadow: 0.30px 0.25px 0.30px #000000;
+  text-shadow: 0.30px 0.25px 0.30px #000000;/*black*/
   /*text-shadow: 0.40px 0.40px 0.40px #000000;*/
   /*text-shadow: 0.50px 0.50px 0.50px #000000;*/
   
@@ -80,11 +80,11 @@ img {
 }
 
 .jumbotron-aboutme h3 {
-  color: #ffffff;
+  color: #ffffff;/*white*/
   }
 
 .jumbotron-aboutme h4 {
-  color: #ffffff;
+  color: #ffffff;/*white*/
   }
 
 .jumbotron-aboutme p {
@@ -101,7 +101,7 @@ img {
 }
 
 li {
-  color: #ffffff;
+  color: #ffffff;/*white*/
 }
 
 h3{
@@ -112,8 +112,9 @@ h4{
 margin-left: 10%;
 }
 
-p {
-  color: #FFFF00;
+.jumbotron-special p {
+  /*color: #FFFF00; yellow*/
+  color:#0000EE; /*bright blue*/
   font-size: 15px;
   text-align: left;
   line-height: 1.5;
@@ -124,12 +125,12 @@ p {
 
 .container-races {
   margin-top:5%;
-  color: #000000;
+  color: #000000;/*black*/
 }
 
 .container-races p{
   margin-top:5%;
-  color: #000000;
+  color: #000000;/*black*/
 }
 
 .container-races #races {
