@@ -112,3 +112,7 @@ p {
 .container-races {
 margin-top:5%;  
 }
+
+.container-races .col-sm-6 #races li{
+ color: #000000;
+ }
