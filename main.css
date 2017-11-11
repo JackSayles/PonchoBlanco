@@ -76,10 +76,12 @@ img {
 
 .jumbotron-aboutme h3 {
   color: #ffffff;/*white*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   }
 
 .jumbotron-aboutme h4 {
   color: #ffffff;/*white*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   }
 
 .jumbotron-aboutme p {
