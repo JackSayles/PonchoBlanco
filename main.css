@@ -25,7 +25,8 @@
 }
 
 .jumbotron p {
-  color: #000000;
+  text-align: center;
+  color: #ffffff;
 }
 
 .btn.btn-primary {
