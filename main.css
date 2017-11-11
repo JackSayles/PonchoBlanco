@@ -110,9 +110,8 @@ p {
 }
 
 .container-races {
-margin-top:5%;  
+  margin-top:5%;
+  color: #000000;
 }
 
-.container-races .col-sm-6 #races {
- color: #000000;
- }
+
