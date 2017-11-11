@@ -25,7 +25,7 @@
 
 .jumbotron p {
   margin-left: 38%;
-  color: #FFFF00;
+  color: #FFFF00; /*yellow*/
 }
 
 .btn.btn-primary {
@@ -88,11 +88,14 @@ img {
   }
 
 .jumbotron-aboutme p {
-  /*color:#7e4a35;*/
-  /*color:#bd5734;*/
-  /*color:#004883;*/
-  /*color:#ff0000;*/
-  color:#ffffff;
+  /*color:#7e4a35;brown rust*/
+  /*color:#bd5734;pale red rust*/
+  /*color:#004883; mate blue*/
+  /*color:#ff0000;red*/
+  /*color:#ffffff;white*/
+  color: #FFFF00; /*yellow*/
+  /*color:#0000EE; bright blue*/
+  
   font-family: Impact, Charcoal, sans-serif;
   letter-spacing: 2px;
 }
