@@ -93,7 +93,7 @@ img {
   /*color:#ff0000;red*/
   /*color:#ffffff;white*/
   /*color: #FFFF00; yellow*/
-  color:#0000EE; /*bright blue*/
+  /*color:#0000EE; bright blue
   font-family: Impact, Charcoal, sans-serif;
   letter-spacing: 2px;
   font-size: 15px;
@@ -101,7 +101,12 @@ img {
   line-height: 1.5;
   margin-top:5%;
   margin-left: 29%;
-  margin-right: 5%;
+  margin-right: 5%;*/
+  font-size: 13pt;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
+  padding: 0px;
 }
 
 li {
