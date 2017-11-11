@@ -68,7 +68,6 @@ img {
   color: #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
-  font-family: "Lato",sans-serif;
 }
 
 .container-aboutme {
@@ -76,17 +75,20 @@ img {
 }
 
 .jumbotron-aboutme h3 {
+  font-family: "Lato",sans-serif;
   color: #ffffff;/*white*/
   /*text-shadow: 0.25px 0.25px 0.25px #000000;black*/
   text-shadow: 0.5px 0.5px 0.5px #000000;
   }
 
 .jumbotron-aboutme h4 {
+  font-family: "Lato",sans-serif;
   color: #ffffff;/*white*/
   text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   }
 
 .jumbotron-aboutme p {
+  font-family: "Lato",sans-serif;
   font-size: 13pt;
   font-weight: bold;
   color: #000000;
