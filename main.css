@@ -77,7 +77,8 @@ img {
 .jumbotron-aboutme h3 {
   font-family: "Lato",sans-serif;
   /*color: #ffffff;white*/
-  color:#0000EE; /*bright blue*/
+  /*color:#0000EE; bright blue*/
+  color: #FFFF00; /*yellow*/
   text-shadow: 0.5px 0.5px 0.5px #000000;
   }
 
