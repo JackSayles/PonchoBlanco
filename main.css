@@ -57,6 +57,10 @@ img {
   text-shadow: 0.25px 0.25px 0.25px #000000;
 }
 
+.container #aboutme {
+  width: 100%;
+}
+
 li {
   color: #ffffff;
 }
