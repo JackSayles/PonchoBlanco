@@ -107,6 +107,9 @@ img {
   color: #000000;
   text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
   padding: 0px;
+  margin-top:5%;
+  margin-left: 29%;
+  margin-right: 5%;
 }
 
 li {
