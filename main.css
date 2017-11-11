@@ -118,3 +118,13 @@ p {
   margin-top:5%;
   color: #000000;
 }
+
+.container-races #races {
+  display: flex;
+  position: relative;
+  align-items: top;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/On%20the%20way%20to%20Fontana%20Dam.jpg?raw=true);
+  background-size: cover;
+  margin-top: 2.5%;
+  margin-bottom: 0;
+}
