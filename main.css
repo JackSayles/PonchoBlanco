@@ -67,8 +67,8 @@ img {
   background-size: cover;
   color: #000000;
   text-shadow: 0.25px 0.25px 0.25px #000000;
-  margin-top: 2.5%;
-  margin-bottom: 0;
+  /*margin-top: 2.5%;
+  margin-bottom: 0;*/
 }
 
 .container-aboutme {
