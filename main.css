@@ -66,9 +66,9 @@ img {
   background-image: url(https://github.com/JackSayles/Images/blob/master/LeConte-1.jpg?raw=true);
   background-size: cover;
   color: #000000;
-  text-shadow: 0.25px 0.25px 0.25px #000000;
-  /*margin-top: 2.5%;
-  margin-bottom: 0;*/
+  /*text-shadow: 0.25px 0.25px 0.25px #000000;*/
+  margin-top: 2.5%;
+  margin-bottom: 0;
 }
 
 .container-aboutme {
