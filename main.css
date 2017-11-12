@@ -36,12 +36,6 @@
   background-color: #ffffff;/*white*/
 }
 
-/*img {
-  text-align: right;
-  border: 2px solid white;
-  padding-top: 20%;
-}*/
-
 .jumbotron h3 {
   margin: 0 0 8px;
   color: #000000;/*black*/
@@ -84,14 +78,16 @@
   font-family: "Lato",sans-serif;
  /*color: #FFFF00; yellow*/
   color:#0000EE; bright blue
-  text-shadow: 1px 1px 1px #ccc;
+  /*text-shadow: 1px 1px 1px #ccc;*/
+  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
   }
 
 .jumbotron-aboutme h4 {
   font-family: "Lato",sans-serif;
   /*color: #FFFF00; yellow*/
   color:#0000EE; /*bright blue*/
-  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  /*text-shadow: 0.25px 0.25px 0.25px #000000;black*/
+  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
   }
 
 .jumbotron-aboutme p {
