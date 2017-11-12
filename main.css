@@ -89,7 +89,8 @@
 
 .jumbotron-aboutme h4 {
   font-family: "Lato",sans-serif;
-  color: #FFFF00; /*yellow*/
+  /*color: #FFFF00; yellow*/
+  color:#0000EE; /*bright blue*/
   text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   }
 
