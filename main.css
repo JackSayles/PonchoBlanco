@@ -153,12 +153,15 @@ p {
 
 .container-training {
   display: flex;
-  /*position: relative;*/
-  position: center;
+  position: relative;
   align-items: top;
   color: #000000;/*black*/
   height: 100%;
   /*text-shadow: 0.25px 0.25px 0.25px #000000;black*/
   margin-top: 2.5%;
   margin-bottom: 0;
+}
+
+.container-training  h1 h4 {
+text-align: center;
 }
