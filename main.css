@@ -74,6 +74,11 @@ img {
   margin: 10 10;
 }
 
+.container-aboutme .col-sm-3 {
+  margin-top:2.5%;
+  padding-left: 2.5%;
+}
+
 .jumbotron-aboutme h3 {
   font-family: "Lato",sans-serif;
   color: #FFFF00; /*yellow*/
