@@ -163,11 +163,12 @@ p {
 }
 
 .container-training  h1 {
-text-align: center;
+  text-align: center;
+  padding-left: 5%;
 }
 
 .container-training  h4 {
-text-align: center;
+  text-align: center;
 }
 
 .container-training  p {
