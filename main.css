@@ -135,7 +135,8 @@ p {
 
 .container-races p{
   margin-top:5%;
-  color: #000000;/*black*/
+  /*color: #000000;black*/
+  color: #ffffff;/*white*/
 }
 
 .container-races #races {
