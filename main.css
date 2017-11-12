@@ -76,7 +76,8 @@ img {
 
 .container-aboutme .col-sm-3 {
   margin-top:2.5%;
-  padding-left: 2.5%;
+  padding-top: 0;
+  padding-left: 5%;
 }
 
 .jumbotron-aboutme h3 {
