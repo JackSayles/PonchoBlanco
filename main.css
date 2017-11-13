@@ -200,7 +200,7 @@ background-size: cover;
 }
 
 /*Adventure Runs*/
-.jumbotron-adventures {
+.container-adventures {
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Cold%20Clingmans%20Dome%2011-14-15.jpg?raw=true);
