@@ -99,9 +99,6 @@ p {
 }
 
 .container-aboutme .col-sm-9 {
-  position: fixed;
-  z-index: 10;
-  margin-top:2.5%;
   padding-top: 0;
   padding-left: 5%;
   padding-right:5%;
