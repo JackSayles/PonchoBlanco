@@ -196,13 +196,15 @@ p {
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
-background-size: cover;
+  background-size: cover;
 }
 
 /*Adventure Runs*/
 .container-adventures {
+  display: flex;
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Cold%20Clingmans%20Dome%2011-14-15.jpg?raw=true);
   background-size: cover;
+  margin-top:2.5%;
 }
