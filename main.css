@@ -72,6 +72,16 @@ p {
   margin-bottom: 0;
 }
 
+.jumbotron-special p {
+  color:#0000EE; /*bright blue*/
+  font-size: 15px;
+  text-align: left;
+  line-height: 1.5;
+  margin-top:5%;
+  margin-left: 29%;
+  margin-right: 5%;
+}
+
 /*about me*/
 .jumbotron-aboutme {
   display: flex;
@@ -132,17 +142,7 @@ p {
   margin-right: 5%;
 }
 
-
-.jumbotron-special p {
-  color:#0000EE; /*bright blue*/
-  font-size: 15px;
-  text-align: left;
-  line-height: 1.5;
-  margin-top:5%;
-  margin-left: 29%;
-  margin-right: 5%;
-}
-
+/*races*/
 .container-races {
   margin-top: 3.75%;
   color: #ffffff;/*white*/
@@ -167,6 +167,7 @@ p {
   background-size: cover;
 }
 
+/*training*/
 .container-training {
   display: flex;
   position: relative;
@@ -190,8 +191,6 @@ p {
 
 .container-training  p {
   text-align: left;
-  /*line-height: 1.5;
-  margin-top:5%;*/
   margin-left: 10%;
   margin-right: 5%;
 }
