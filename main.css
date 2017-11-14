@@ -200,7 +200,7 @@ p {
 }
 
 /*Adventure Runs*/
-.container-adventures {
+.container-adventures #heading {
   display: flex;
   position: relative;
   align-items: top;
