@@ -202,8 +202,8 @@ p {
 /*Adventure Runs*/
 .container-adventures #heading {
   display: flex;
-  position: center;
-  align-items: top;
+  position: relative;
+  align-items: top center;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Cold%20Clingmans%20Dome%2011-14-15.jpg?raw=true);
   background-size: cover;
   height: 45%;
