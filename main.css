@@ -210,3 +210,8 @@ p {
   width: 80%;
   margin: 4% 10%;
 }
+
+.jumbotron-adventures p {
+  color: #000000;
+  margin: 4% 10%;
+}
