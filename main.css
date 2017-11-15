@@ -220,7 +220,7 @@ p {
   display: flex;
   position: relative;
   align-items: top center;
-  background-image: url(?raw=true);
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Josh%20and%20I%2011-14-15.jpg?raw=true);
   background-size: cover;
   height: 449px;
   width: 598px;
