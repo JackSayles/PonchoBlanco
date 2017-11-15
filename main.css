@@ -213,7 +213,7 @@ p {
 
 .jumbotron-adventures p {
   color: #000000;
-  margin: 4% 10%;
+  margin: 4% 4%;
 }
 
 .container-advenpics #footpic {
@@ -221,7 +221,6 @@ p {
   position: relative;
   align-items: top center;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Josh%20and%20I%2011-14-15.jpg?raw=true);
-  background-image: center;
   background-size: cover;
   height: 449px;
   width: 598px;
