@@ -213,7 +213,7 @@ p {
 
 .jumbotron-adventures p {
   color: #000000;
-  margin: 4% 4%;
+  margin: 4% 10%;
 }
 
 .container-advenpics #footpic {
@@ -224,4 +224,5 @@ p {
   background-size: cover;
   height: 449px;
   width: 598px;
+  margin: 0% 20%;
   }
