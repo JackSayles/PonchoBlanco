@@ -226,3 +226,10 @@ p {
   width: 598px;
   margin: 0% 20%;
   }
+
+/*Gear*/
+.container-gear {
+  display: flex;
+  position: relative;
+  margin: 5%;
+}
