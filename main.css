@@ -228,8 +228,8 @@ p {
   }
 
 /*Gear*/
-.container-gear {
+.row-gear {
   display: flex;
-  position: center;
-  margin: 2.5%;
+  position: relative;
+  margin-top: 5%;
 }
