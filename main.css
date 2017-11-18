@@ -229,6 +229,10 @@ p {
 
 /*Gear*/
 .container-gear {
+  margin: 5%;
+}
+
+.row-gear {
   display: flex;
   position: relative;
   margin-top: 5%;
