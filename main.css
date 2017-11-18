@@ -230,6 +230,6 @@ p {
 /*Gear*/
 .container-gear {
   display: flex;
-  position: relative;
-  margin: 5%;
+  position: center;
+  margin: 2.5%;
 }
