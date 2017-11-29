@@ -141,7 +141,7 @@ p {
 
 /*races*/
 .container-races {
-  margin-top: 3.75%;
+w  margin-top: 3.75%;
   color: #ffffff;/*white*/
 }
 
@@ -193,7 +193,7 @@ p {
 }
 
 .container-training .row-training {
-  
+  width: 25%;
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
