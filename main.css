@@ -157,7 +157,7 @@ w  margin-top: 3.75%;
   background-size: cover;
 }
 
-.container-races #signup {
+container-races #signup {
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Fiery%20Gizzard%20Start%20Group6.JPG?raw=true);
@@ -193,7 +193,7 @@ w  margin-top: 3.75%;
 }
 
 .container-training .row-training {
-  width: 50%;
+  width: 75%;
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
