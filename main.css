@@ -86,7 +86,7 @@ p {
   display: flex;
   position: relative;
   align-items: top;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG);
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG?raw=true);
   
   background-size: cover;
   color: #000000;/*black*/
@@ -118,13 +118,13 @@ p {
 .jumbotron-aboutme h3 {
   font-family: "Lato",sans-serif;
    color:#0000EE; /*bright blue*/
-   text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
+   /*text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
   }
 
 .jumbotron-aboutme h4 {
   font-family: "Lato",sans-serif;
   color:#0000EE; /*bright blue*/
-  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
+  /*text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
   }
 
 .jumbotron-aboutme p {
