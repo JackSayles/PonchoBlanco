@@ -117,14 +117,14 @@ p {
 
 .jumbotron-aboutme h3 {
   font-family: "Lato",sans-serif;
-   color:#0000EE; /*bright blue*/
+   color:#000000; 
    /*text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
   }
 
 .jumbotron-aboutme h4 {
   font-family: "Lato",sans-serif;
-  color:#0000EE; /*bright blue*/
-  /*text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
+  color:#000000; 
+  text-shadow: 0 0 .4em #ffffff; /*, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
   }
 
 .jumbotron-aboutme p {
