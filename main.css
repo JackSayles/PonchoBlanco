@@ -140,8 +140,8 @@ p {
 }
 
 /*races*/
-.container-races {
-w  margin-top: 3.75%;
+.container-races h3{
+  margin-top: 5%;
   color: #ffffff;/*white*/
 }
 
