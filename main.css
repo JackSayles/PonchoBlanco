@@ -86,7 +86,7 @@ p {
   display: flex;
   position: relative;
   align-items: top;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/LeConte-1.JPG?raw=true);
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG);
   
   background-size: cover;
   color: #000000;/*black*/
@@ -131,8 +131,8 @@ p {
   font-family: "Lato",sans-serif;
   font-size: 13pt;
   font-weight: bold;
-  color: #000000;
-  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;
+  /* color: #000000;
+  text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
