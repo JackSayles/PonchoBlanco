@@ -118,13 +118,13 @@ p {
 .jumbotron-aboutme h3 {
   font-family: "Lato",sans-serif;
    color:#000000; 
-   text-shadow: 2px 2px 3px #ffffff; /*0 0 .3em #ccc, 0 0 .2em #ccc;*/
+   text-shadow: 2px 2px 3px #ffffff; 
   }
 
 .jumbotron-aboutme h4 {
   font-family: "Lato",sans-serif;
   color:#000000; 
-  text-shadow: 1px 1px 3px #ffffff; /*, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
+  text-shadow: 1px 1px 3px #ffffff; 
   }
 
 .jumbotron-aboutme p {
@@ -132,7 +132,7 @@ p {
   font-size: 13pt;
   font-weight: bold;
   color: #000000;
-  /*text-shadow: 0 0 .4em #ccc, 0 0 .3em #ccc, 0 0 .2em #ccc;*/
+  text-shadow: 1px 1px 3px #ffffff;
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
