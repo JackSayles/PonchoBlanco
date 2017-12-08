@@ -106,7 +106,7 @@ p {
 }
 
 .container-aboutme .col-sm-3 {
-  position: fixed;
+  position: relative;
   width: 100%;
   z-index: 10;
   margin-top:2.5%;
