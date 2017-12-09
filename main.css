@@ -197,8 +197,8 @@ p {
   margin-left: 10%;
   margin-right: 5%;
 }
-
-.container-training .row-training {
+    /*.row-training*/
+.container-training .col-sm-4 {
   width: 100%;
   position: relative;
   align-items: top;
