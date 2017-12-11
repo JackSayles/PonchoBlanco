@@ -20,12 +20,12 @@ p {
   margin-bottom: 15%;
 }
 
-.btn.btn-primary {
+.li .btn.btn-primary {
   border-radius: 2px;
   border: 0px;
-  color: #000000;/*black*/
+  
   text-shadow: none;
-  background-color: #ffffff;/*white*/
+  background-color: #000000;/*black*/
 }
 
 .btn btn-primary dropdown-toggle {
