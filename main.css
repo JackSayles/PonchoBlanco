@@ -31,9 +31,9 @@ p {
 .btn btn-primary dropdown-toggle {
   border-radius: 2px;
   border: 0px;
-  color: #000000;/*black*/
+  color: #ffffff;/*white*/
   text-shadow: none;
-  background-color: #ffffff;/*white*/
+  background-color: #000000;/*black*/
 }
 
 .caret {
