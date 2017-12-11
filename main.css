@@ -89,13 +89,13 @@ p {
 
 .jumbotron-special p {
   color:#ffffff; /*white*/
-  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  text-shadow: 0.35px 0.35px 0.35px #000000;/*black*/
   font-size: 15px;
-  text-align: center;
+  text-align: left;
   line-height: 1.5;
   margin-top:5%;
-  margin-left: 29%;
-  margin-right: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
 }
 
 /*about me*/
