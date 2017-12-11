@@ -40,6 +40,10 @@ p {
   color: #ffffff; /*white*/
 }
 
+.col-sm-6 {
+  margin: 0 0 30px;
+}
+
 /*home page*/
 .jumbotron {
   display: flex;
