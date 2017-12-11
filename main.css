@@ -89,8 +89,9 @@ p {
 
 .jumbotron-special p {
   color:#ffffff; /*white*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   font-size: 15px;
-  text-align: left;
+  text-align: center;
   line-height: 1.5;
   margin-top:5%;
   margin-left: 29%;
