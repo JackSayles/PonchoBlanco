@@ -15,6 +15,31 @@ p {
   color:#0000EE; /*bright blue*/
 }
 
+.row {
+  margin-top: 0;
+  margin-bottom: 15%;
+}
+
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 0px;
+  color: #000000;/*black*/
+  text-shadow: none;
+  background-color: #ffffff;/*white*/
+}
+
+.btn btn-primary dropdown-toggle {
+  border-radius: 2px;
+  border: 0px;
+  color: #000000;/*black*/
+  text-shadow: none;
+  background-color: #ffffff;/*white*/
+}
+
+.caret {
+  color: #ffffff; /*white*/
+}
+
 /*home page*/
 .jumbotron {
   display: flex;
@@ -29,11 +54,6 @@ p {
   margin-bottom: 0;
 }
 
-.row {
-  margin-top: 0;
-  margin-bottom: 15%;
-}
-
 .jumbotron h1 {
   font-size: 60px;
   font-weight: 700;
@@ -44,14 +64,6 @@ p {
 .jumbotron p {
   margin-left: 38%;
   color: #FFFF00; /*yellow*/
-}
-
-.btn.btn-primary {
-  border-radius: 2px;
-  border: 0px;
-  color: #000000;/*black*/
-  text-shadow: none;
-  background-color: #ffffff;/*white*/
 }
 
 .jumbotron h3 {
