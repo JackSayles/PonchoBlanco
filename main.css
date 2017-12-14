@@ -217,9 +217,14 @@ p {
 }
 
 /*How I Train*/
-.row .body {
+.row .heading {
   margin-top: 10%;
   margin-bottom: 15%;
+  text-align: center;
+}
+
+.row .body {
+  padding: 10%;
 }
 
     /*.row-training*/
