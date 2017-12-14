@@ -215,6 +215,13 @@ p {
   margin-left: 10%;
   margin-right: 5%;
 }
+
+/*How I Train*/
+.row .body {
+  margin-top: 10%;
+  margin-bottom: 15%;
+}
+
     /*.row-training*/
 .container-training .col-sm-4 {
   width: 100%;
