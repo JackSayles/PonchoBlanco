@@ -217,6 +217,20 @@ p {
 }
 
 /*How I Train*/
+
+.jumbotron-itrain {
+  display: flex;
+  position: relative;
+  align-items: top;
+  /*background-image: url(?raw=true);*/
+  background-size: cover;
+  color: #000000;/*black*/
+  height: 100%;
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  margin-top: 2.5%;
+  margin-bottom: 0;
+}
+
 .row .heading {
   margin-top: 10%;
   margin-bottom: 15%;
