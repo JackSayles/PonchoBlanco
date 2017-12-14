@@ -233,6 +233,9 @@ p {
   padding: 5%;
 }
 
+.jumbotron-itrain p {
+  padding: 5%;
+}
 
     /*.row-training*/
 .container-training .col-sm-4 {
