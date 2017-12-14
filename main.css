@@ -105,7 +105,6 @@ p {
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG?raw=true);
-  
   background-size: cover;
   color: #000000;/*black*/
   margin-top: 2.5%;
@@ -222,16 +221,14 @@ p {
   display: flex;
   position: relative;
   align-items: top;
-  /*background-image: url(?raw=true);*/
   background-size: cover;
   color: #000000;/*black*/
   height: 100%;
-  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
 }
 
-.row .heading {
+.row #heading {
   margin-top: 15%;
   /* margin-bottom: 15%;*/
   text-align: center;
