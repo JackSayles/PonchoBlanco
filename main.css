@@ -228,10 +228,9 @@ p {
   margin-bottom: 0;
 }
 
-.row #heading {
-  /*margin-top: 15%;*/
-  
+.jumbotron-itrain h3{
   text-align: center;
+  padding: 5%;
 }
 
 
