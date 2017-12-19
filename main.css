@@ -75,11 +75,13 @@ p {
   color: #000000;/*black*/
 }
 
-.container .col-sm-10 {
+.col-sm-10 {
   display: flex;
   position: relative;
+  align-items:bottom;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Spring_Logo_Color_w_tag.jpg?raw=true);
   background-size: cover;
+  margin-top: 2.5%;
 }
 
 /*nutrition*/
@@ -88,7 +90,8 @@ p {
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Big%20Chico%20Creek4.JPG?raw=true);
-  background-size: cover;  color: #000000;/*black*/
+  background-size: cover;
+  color: #000000;/*black*/
   text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 2.5%;
