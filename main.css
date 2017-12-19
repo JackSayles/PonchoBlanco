@@ -47,11 +47,9 @@ p {
 #SpringEnergy {
   display: flex;
   position: relative;
-  align-items:bottom;
+  align-items:bottom center;
   background-size: cover;
   margin-top: 2.5%;
-  height: 360px;
-  width: 1280px;
 }
 
 
