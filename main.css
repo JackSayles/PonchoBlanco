@@ -279,7 +279,7 @@ p {
   font-size: 45px;
   font-weight: 500;
   padding-top: 10%;
-  /*color: #000000;/*black*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   color: #FFFF00; /*yellow*/
   background: url(https://github.com/JackSayles/Images/blob/master/2017%20Lookout%2050%20Miler%20Elevation.png?raw=true) center;
   height: 360px;
