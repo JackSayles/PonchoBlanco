@@ -265,6 +265,13 @@ p {
   margin: 4% 10%;
 }
 
+.jumbotron-adventures h2{
+  font-size: 60px;
+  font-weight: 700;
+  padding-top: 10%;
+  color: #000000;/*black*/
+}
+
 .container-adventures #footpic {
   display: flex;
   position: relative;
