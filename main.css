@@ -48,6 +48,14 @@ p {
   margin-bottom: 0;
 }
 
+#other {
+  float:right;
+}
+
+#poles {
+  float:left;
+}
+
 /*home page*/
 .jumbotron {
   display: flex;
