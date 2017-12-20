@@ -120,7 +120,7 @@ p {
 
 .container-aboutme .col-sm-9 {
   position: relative;
-  padding-top: 0;
+  margin-top: 5%;
   padding-left: 5%;
   padding-right:5%;
 }
@@ -129,7 +129,7 @@ p {
   position: fixed;
   width: 100%;
   z-index: 10;
-  margin-top:2.5%;
+  margin-top:5%;
   padding-top: 0;
   padding-left: 5%;
   padding-right:5%;
