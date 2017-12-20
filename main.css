@@ -44,7 +44,7 @@ p {
   margin: 0 0 30px;
 }
 
-#wash {
+.col-sm-3 #wash {
   transform: rotate(90);
 }
 
