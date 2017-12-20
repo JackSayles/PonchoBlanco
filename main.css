@@ -113,8 +113,8 @@ p {
   background-size: cover;
   color: #000000;/*black*/
   margin-top: 2.5%;
-  margin-bottom: 0;
-  padding-bottom: 0;
+  /*margin-bottom: 0;
+  padding-bottom: 0;*/
 }
 
 .container-aboutme {
