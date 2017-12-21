@@ -115,7 +115,7 @@ p {
 /*about me*/
 .jumbotron-aboutme {
   display: flex;
-  position: fixed;
+  position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG?raw=true);
   background-size: cover;
