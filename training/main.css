@@ -9,7 +9,7 @@
   margin-bottom: 0;
 }
 
-.container-training  h1 {
+.row-training  h1 {
   /*text-align: center;*/
   padding: 5%;
 }
@@ -50,11 +50,6 @@
 
     /*.row-training*/
 .container-training .col-sm-4 {
-  /*width: 100%;
-  height: 100%;*/
-  /*display:flex;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
-  background-size: cover;*/
   position: relative;
   align-items: top;
 }
