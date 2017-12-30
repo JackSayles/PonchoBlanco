@@ -9,12 +9,14 @@
   margin-bottom: 0;
 }
 
-.row-training  h1 {
-  /*text-align: center;*/
+.container-training  h1 {
+  color:#000000;
+  text-align: center;
   padding: 5%;
 }
 
 .container-training  h4 {
+  color:#000000;
   text-align: center;
 }
 
@@ -23,6 +25,17 @@
   text-align: left;
   margin-left: 10%;
   margin-right: 5%;
+}
+
+.container-training .col-sm-4 {
+  position: relative;
+  align-items: top;
+}
+
+.img-responsive{
+  display:block;
+  max-width:100%;
+  height:auto;
 }
 
 /*How I Train*/
@@ -48,15 +61,5 @@
   margin-right: 5%;
 }
 
-    /*.row-training*/
-.container-training .col-sm-4 {
-  position: relative;
-  align-items: top;
-}
 
-.img-responsive{
-  display:block;
-  max-width:100%;
-  height:auto;
-}
 
