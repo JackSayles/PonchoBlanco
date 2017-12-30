@@ -38,6 +38,11 @@
   height:auto;
 }
 
+.figcaption {
+  color: #ffffff;
+  text-align: center;
+}
+
 /*How I Train*/
 
 .jumbotron-itrain {
