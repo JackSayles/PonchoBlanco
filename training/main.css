@@ -50,8 +50,8 @@
 
     /*.row-training*/
 .container-training .col-sm-4 {
-  /*width: 100%;
-  height: 100%;*/
+  /*width: 100%;*/
+  height: 100%;
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
