@@ -3,7 +3,7 @@ h1 {
   font-family: "Lato",sans-serif;
   font-weight: bold;
   color:#000000; 
-  text-shadow: 1px 1px 3px #ffffff; 
+  /*text-shadow: 1px 1px 3px #ffffff;*/ 
   }
 
 p {
@@ -11,7 +11,7 @@ p {
   font-size: 13pt;
   font-weight: bold;
   color: #000000;
-  text-shadow: 1px 1px 3px #ffffff;
+  /*text-shadow: 1px 1px 3px #ffffff;*/
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
@@ -63,12 +63,11 @@ p {
   background-size: cover;
   color: #FFFF00;/*yellow*/
   height: 100%;
-  text-shadow: 0px;
   margin-top: 2.5%;
   margin-bottom: 0;
 }
 
 .jumbotron-mytrails p{
     color: #FFFF00; /*yellow*/
-    text-shadow: 0px;
+
 }
