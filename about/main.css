@@ -1,6 +1,9 @@
 /*about me*/
-.jumbotron-aboutme {
-  display: inline-block;
+.img-responsive {
+  display: block;
+  max-width:100%;
+  hieght:auto;
+  position: center;
   color: #000000;/*black*/
 }
 
