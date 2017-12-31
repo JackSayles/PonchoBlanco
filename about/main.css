@@ -3,7 +3,7 @@ h1 {
   font-family: "Lato",sans-serif;
   font-weight: bold;
   color:#000000;
-  text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/  
+  /*text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/  
   }
 
 p {
@@ -67,7 +67,7 @@ p {
   margin-bottom: 0;
 }
 
-.jumbotron-mytrails p{
+.jumbotron-mytrails h1 p{
   /*color: #00FFFF; aqua*/
   /*color: #7fffd4; aquamarine*/
   /*color: #ffffff; white*/
