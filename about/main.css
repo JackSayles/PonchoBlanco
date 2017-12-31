@@ -1,7 +1,7 @@
 /*about me*/
 .jumbotron-aboutme .img {
   width:100%;
-  max-width: 2560px;
+  /*max-width: 2560px;*/
   height: auto;
   display: flex;
   position: relative;
