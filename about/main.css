@@ -67,11 +67,16 @@ p {
   margin-bottom: 0;
 }
 
-.jumbotron-mytrails h1 p{
+.jumbotron-mytrails h1{
   /*color: #00FFFF; aqua*/
   /*color: #7fffd4; aquamarine*/
   /*color: #ffffff; white*/
   color: #ffff00;
   text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
+}
 
+.jumbotron-mytrails p{
+  color: #ffff00;
+  text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
+}
 }
