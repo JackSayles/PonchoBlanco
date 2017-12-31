@@ -61,9 +61,13 @@ p {
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20trail1.jpg?raw=true);
   background-size: cover;
-  color: #000000;/*black*/
+  color: #FFFF00;/*yellow*/
   height: 100%;
   text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
 }
+
+/*.jumbotron-mytrails h1 p{
+    color: #FFFF00; /*yellow
+}*/
