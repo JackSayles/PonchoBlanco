@@ -11,7 +11,8 @@ p {
   font-weight: bold;
   color: #000000;
   /*text-shadow: 0.25px 0.25px 0.25px #ffffff;/*white*/
-  text-shadow: 0.25px 0.25px 0.25px 	#FF0000; /*red*/
+  /*text-shadow: 0.25px 0.25px 0.25px	#FF0000; red*/
+  text-shadow: 0.25px 0.25px 0.25px #000000; /*black*/
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
