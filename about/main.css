@@ -18,6 +18,10 @@ p {
   margin-right: 5%;
 }
 
+.row {
+  padding: 2px;
+}
+
 .jumbotron-aboutme {
   display: flex;
   position: relative;
