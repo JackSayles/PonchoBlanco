@@ -1,10 +1,15 @@
 /*about me*/
 .img-responsive {
-  display: block;
-  max-width:100%;
-  hieght:auto;
-  position: center;
+  display: flex;
+  position: relative;
+  align-items: top;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00339.jpg?raw=true);
+  background-size: cover;
   color: #000000;/*black*/
+  height: 100%;
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  margin-top: 2.5%;
+  margin-bottom: 0;
 }
 
 .container-aboutme {
