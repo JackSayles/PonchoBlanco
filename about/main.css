@@ -6,7 +6,7 @@
   position: relative;
   align-items: top;
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00339.jpg?raw=true);
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   color: #000000;/*black*/
 }
