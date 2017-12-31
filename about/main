@@ -1,0 +1,55 @@
+/*about me*/
+.jumbotron-aboutme {
+  display: flex;
+  position: relative;
+  align-items: top;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Frozen%20snow%20covered%20wash.JPG?raw=true);
+  background-size: cover;
+  color: #000000;/*black*/
+}
+
+.container-aboutme {
+  margin: 10 10;
+}
+
+.container-aboutme .col-sm-9 {
+  position: relative;
+  margin-top: 5%;
+  padding-left: 5%;
+  padding-right:5%;
+}
+
+.container-aboutme .col-sm-3 {
+  position: fixed;
+  z-index: 10;
+  margin-top:5%;
+  padding-top: 0;
+  padding-left: 5%;
+  padding-right:5%;
+}
+
+.jumbotron-aboutme h3 {
+  font-family: "Lato",sans-serif;
+  font-weight: bold;
+  color:#000000; 
+  text-shadow: 2px 2px 3px #ffffff; 
+  }
+
+.jumbotron-aboutme h4 {
+  font-family: "Lato",sans-serif;
+  font-weight: bold;
+  color:#000000; 
+  text-shadow: 1px 1px 3px #ffffff; 
+  }
+
+.jumbotron-aboutme p {
+  font-family: "Lato",sans-serif;
+  font-size: 13pt;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 1px 1px 3px #ffffff;
+  padding: 0px;
+  margin-top:5%;
+  margin-left: 29%;
+  margin-right: 5%;
+}
