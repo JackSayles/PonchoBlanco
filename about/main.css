@@ -63,11 +63,11 @@ p {
   background-size: cover;
   color: #FFFF00;/*yellow*/
   height: 100%;
-  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  /*text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
   margin-top: 2.5%;
   margin-bottom: 0;
 }
 
-/*.jumbotron-mytrails h1 p{
-    color: #FFFF00; /*yellow
-}*/
+.jumbotron-mytrails p{
+    color: #FFFF00; /*yellow*/
+}
