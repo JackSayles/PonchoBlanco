@@ -1,13 +1,15 @@
 /*about me*/
 .jumbotron-aboutme {
-  max-width: 100%;
+  width:100%;
+  max-width: 2560px;
   height: auto;
   display: flex;
   position: relative;
   align-items: top;
+  background: contain;
   background-image: url(https://github.com/JackSayles/Images/blob/master/CAM00339.jpg?raw=true);
-  background-size: cover;
-  background-position: center bottom;
+  background-size: 100%;
+  /*background-position: center bottom;*/
   color: #000000;/*black*/
 }
 
