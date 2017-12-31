@@ -3,7 +3,7 @@ h1 {
   font-family: "Lato",sans-serif;
   font-weight: bold;
   color:#000000; 
-  /*text-shadow: 1px 1px 3px #ffffff;*/ 
+  margin-top: 2%;
   }
 
 p {
@@ -11,7 +11,6 @@ p {
   font-size: 13pt;
   font-weight: bold;
   color: #000000;
-  /*text-shadow: 1px 1px 3px #ffffff;*/
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
