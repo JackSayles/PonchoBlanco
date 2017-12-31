@@ -11,7 +11,7 @@ p {
   font-size: 13pt;
   font-weight: bold;
   color: #000000;
-  text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
+  /*text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
   padding: 0px;
   margin-top:5%;
   margin-left: 29%;
@@ -68,9 +68,10 @@ p {
 }
 
 .jumbotron-mytrails p{
-    /*color: #00FFFF; aqua*/
-    /*color: #7fffd4; aquamarine*/
-    /*color: #ffffff; white*/
+  /*color: #00FFFF; aqua*/
+  /*color: #7fffd4; aquamarine*/
+  /*color: #ffffff; white*/
   color: #ffff00;
+  text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
 
 }
