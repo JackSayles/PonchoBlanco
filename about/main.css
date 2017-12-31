@@ -1,4 +1,23 @@
 /*about me*/
+h1 {
+  font-family: "Lato",sans-serif;
+  font-weight: bold;
+  color:#000000; 
+  text-shadow: 1px 1px 3px #ffffff; 
+  }
+
+p {
+  font-family: "Lato",sans-serif;
+  font-size: 13pt;
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 1px 1px 3px #ffffff;
+  padding: 0px;
+  margin-top:5%;
+  margin-left: 29%;
+  margin-right: 5%;
+}
+
 .jumbotron-aboutme {
   display: flex;
   position: relative;
@@ -32,28 +51,17 @@
   padding-right:5%;
 }
 
-.jumbotron-aboutme h3 {
-  font-family: "Lato",sans-serif;
-  font-weight: bold;
-  color:#000000; 
-  text-shadow: 2px 2px 3px #ffffff; 
-  }
 
-.jumbotron-aboutme h4 {
-  font-family: "Lato",sans-serif;
-  font-weight: bold;
-  color:#000000; 
-  text-shadow: 1px 1px 3px #ffffff; 
-  }
 
-.jumbotron-aboutme p {
-  font-family: "Lato",sans-serif;
-  font-size: 13pt;
-  font-weight: bold;
-  color: #000000;
-  text-shadow: 1px 1px 3px #ffffff;
-  padding: 0px;
-  margin-top:5%;
-  margin-left: 29%;
-  margin-right: 5%;
+.jumbotron-mytrails {
+  display: flex;
+  position: relative;
+  align-items: top;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Big%20Chico%20Creek4.JPG?raw=true);
+  background-size: cover;
+  color: #000000;/*black*/
+  height: 100%;
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  margin-top: 2.5%;
+  margin-bottom: 0;
 }
