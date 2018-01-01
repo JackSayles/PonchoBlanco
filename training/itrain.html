@@ -59,11 +59,22 @@
     <header class="container">
      <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-header col-sm-4">
-        <p><a href="/index.html">Poncho Blanco</a></p>
+        <li class="acitve"><a class="navbar-brand" href="/index.html">Poncho Blanco</a></li>  
       </div>
-       <ul class="nav navbar-nav col-sm-8">
-         <li class="active"><a href="/About.html">About</a></li>
-         <li class="active"><a href="training.html">Training</a></li>
+       <ul class="nav navbar-nav col-sm-8<p>
+         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">About<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="/about/about.html">About Me</a></li>
+            <li><a href="/about/history.html">My History</a></li>          
+            <li><a href="/about/my-trails.html">My Trials</a></li>
+          </ul>
+         </li>
+         <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="training/training.html">Training<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="training.html">Training</a></li>
+            <li><a href="itrain.html">How I Train</a></li>
+          </ul>
+         </li>
          <li class="active"><a href="/nutrition.html">Nutrition</a></li>
          <li class="active"><a href="/adventures.html">Adventure Runs</a></li>
          <li class="active"><a href="/races.html">Races</a></li>
