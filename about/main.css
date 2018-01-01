@@ -66,9 +66,6 @@ p {
 }
 
 .jumbotron-mytrails h1{
-  /*color: #00FFFF; aqua*/
-  /*color: #7fffd4; aquamarine*/
-  /*color: #ffffff; white*/
   color: #ffff00;
   text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
 }
@@ -77,4 +74,17 @@ p {
   color: #ffff00;
   text-shadow: 0.75px 0.75px 0.75px #000000; /*black*/
 }
+
+.container-history {
+  margin: 10 10;
+  display: flex;
+  position: relative;
+  align-items: top;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Grayson%20Highlands%20hill1.JPG?raw=true);
+  background-size: cover;
+  color: #FFFF00;/*yellow*/
+  height: 100%;
+  
+  /*margin-top: 2.5%;
+  margin-bottom: 0;*/  
 }
