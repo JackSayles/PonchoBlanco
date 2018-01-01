@@ -83,8 +83,8 @@ p {
   background-image: url(https://github.com/JackSayles/Images/blob/master/Grayson%20Highlands%20hill1.JPG?raw=true);
   background-size: cover;
   color: #FFFF00;/*yellow*/
-  height: 100%;
-  
+  width:100%;
+  height: auto;
   margin-top: 2.5%;
   margin-bottom: 0;  
 }
