@@ -222,12 +222,12 @@ p {
 
 /*Social Media and Email*/
 .container-social p {
-  margin-left: 38%;
+  margin-left: 25%;
   color: #FFFF00; /*yellow*/
 }
 
 .container-social h2 {
-  margin: 0 0 8px;
+  margin: 10%;
   color: #000000;/*black*/
 }
 
