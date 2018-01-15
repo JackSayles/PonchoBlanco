@@ -168,93 +168,6 @@ p {
   margin-right: 5%;
 }
 
-/*races
-.container-races h3{
-  margin-top: 7%;
-  color: #ffffff;/*white
-}
-
-.container-races p{
-  margin-top:2.5%;
-  color: #ffffff;/*white
-}
-
-.container-races #races {
-  position: relative;
-  align-items: top;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/The%20Start.jpg?raw=true);
-  background-size: cover;
-  margin-top: 4%;
-  margin-bottom: 0;
-}
-
-.container-races #signup {
-  position: relative;
-  align-items: top;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/Fiery%20Gizzard%20Start%20Group6.JPG?raw=true);
-  background-size: cover;
-  margin-top: 4%;
-  margin-bottom: 0;
-}*/
-
-/*training
-.container-training {
-  display: flex;
-  position: relative;
-  align-items: top;
-  color: #ffffff;/*white
-  height: 100%;
-  margin-top: 5%;
-  margin-bottom: 0;
-}
-
-.container-training  h1 {
-  text-align: center;
-  padding-left: 5%;
-}
-
-.container-training  h4 {
-  text-align: center;
-}
-
-.container-training  p {
-  text-align: left;
-  margin-left: 10%;
-  margin-right: 5%;
-}
-
-/*How I Train
-
-.jumbotron-itrain {
-  display: flex;
-  position: relative;
-  align-items: top;
-  background-size: cover;
-  color: #000000;/*black
-  height: 100%;
-  margin-top: 2.5%;
-  margin-bottom: 0;
-}
-
-.jumbotron-itrain h3{
-  text-align: center;
-  padding: 5%;
-}
-
-.jumbotron-itrain p {
-  margin-left: 5%;
-  margin-right: 5%;
-}
-
-    /*.row-training
-.container-training .col-sm-4 {
-  width: 100%;
-  height: 100%;
-  position: relative;
-  align-items: top;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/Me%20at%20MCTU15.jpg?raw=true);
-  background-size: cover;
-}*/
 
 /*Adventure Runs*/
 .container-adventures #heading {
@@ -306,3 +219,15 @@ p {
   position: relative;
   margin-top: 5%;
 }
+
+/*Social Media and Email*/
+.container-social p {
+  margin-left: 38%;
+  color: #FFFF00; /*yellow*/
+}
+
+.container-social h2 {
+  margin: 0 0 8px;
+  color: #000000;/*black*/
+}
+
