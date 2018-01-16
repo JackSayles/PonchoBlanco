@@ -3,6 +3,16 @@ h2 {
 text-align:center;
 }
 
+.jumbotron {
+  display: flex;
+  position: relative;
+  align-items: top;
+  color: #000000;/*black*/
+  height: 100%;
+  margin-top: 2.5%;
+  margin-bottom: 0;
+}
+
 .container-gear {
   margin: 5%;
 }
