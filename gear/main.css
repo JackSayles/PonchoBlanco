@@ -1,9 +1,13 @@
 /*Gear*/
+h2 {
+text-align:center;
+}
+
 .container-gear {
   margin: 5%;
 }
 
-.row-gear {
+.row {
   display: flex;
   position: relative;
   margin-top: 5%;
