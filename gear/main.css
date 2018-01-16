@@ -3,6 +3,10 @@ h2 {
 text-align:center;
 }
 
+p {
+  font-size: 15px;
+}
+
 .jumbotron {
   display: flex;
   position: relative;
