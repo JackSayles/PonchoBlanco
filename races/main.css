@@ -2,6 +2,11 @@ li {
   color: #ffffff;/*white*/
 }
 
+h1 {
+  padding-top: 5%;
+  text-align: center;
+}
+
 h3{
 margin-left: 10%;
 }
