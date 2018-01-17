@@ -5,7 +5,7 @@
   align-items: top;
   color: #ffffff;/*white*/
   height: 100%;
-  margin-top: 5%;
+  margin-top: 15%;
   margin-bottom: 0;
 }
 
@@ -27,10 +27,10 @@
   margin-right: 5%;
 }
 
-.container-training .col-sm-4 {
+/*.container-training .col-sm-4 {
   position: relative;
   align-items: top;
-}
+}*/
 
 .img-responsive{
   display:block;
