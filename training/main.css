@@ -75,7 +75,10 @@
 
 .container-itrain {
   align-items:center;
-  text-align:center;
   margin: 5%;
 }
+
+.container-itrain h2 {
+  text-align:center;
+  }
 
