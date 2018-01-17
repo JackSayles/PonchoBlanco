@@ -1,4 +1,14 @@
 /*Training*/
+.container-gear {
+  margin: 5%;
+}
+
+.row {
+  display: flex;
+  position: relative;
+  margin-top: 5%;
+}
+
 .container-training {
   display: flex;
   position: relative;
