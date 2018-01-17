@@ -74,6 +74,8 @@
 }*/
 
 .container-itrain {
+  align-items:center;
+  text-align:center;
   margin: 5%;
 }
 
