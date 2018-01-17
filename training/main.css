@@ -1,5 +1,8 @@
 /*Training*/
 .container {
+  display: flex;
+  position:relative;
+  text-align: center;
   margin: 5%;
 }
 
