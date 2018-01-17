@@ -50,20 +50,20 @@
   text-align: center;
 }
 
-/*How I Train
+/*How I Train*/
 
 .jumbotron-itrain {
   display: flex;
   position: relative;
   align-items: top;
   background-size: cover;
-  color: #000000;/*black
+  color: #000000;/*black*/
   height: 100%;
   margin-top: 2.5%;
   margin-bottom: 0;
 }
 
-.jumbotron-itrain h3{
+/*.jumbotron-itrain h3{
   text-align: center;
   padding: 5%;
 }
