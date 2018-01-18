@@ -169,7 +169,7 @@ p {
 }
 
 
-/*Adventure Runs*/
+/*Adventure Runs
 .container-adventures #heading {
   display: flex;
   position: relative;
@@ -190,8 +190,8 @@ p {
   font-size: 45px;
   font-weight: 500;
   padding-top: 10%;
-  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
-  color: #FFFF00; /*yellow*/
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black
+  color: #FFFF00; /*yellow
   background: url(https://github.com/JackSayles/Images/blob/master/2017%20Lookout%2050%20Miler%20Elevation.png?raw=true) center;
   height: 360px;
   width: 1280;
@@ -207,18 +207,7 @@ p {
   height: 449px;
   width: 598px;
   margin: 0% 20%;
-  }
-
-/*Gear
-.container-gear {
-  margin: 5%;
-}
-
-.row-gear {
-  display: flex;
-  position: relative;
-  margin-top: 5%;
-}*/
+  }*/
 
 /*Social Media and Email*/
 .container-social p {
