@@ -1,0 +1,39 @@
+/*Adventure Runs*/
+.container-adventures #heading {
+  display: flex;
+  position: relative;
+  align-items: top center;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Cold%20Clingmans%20Dome%2011-14-15.jpg?raw=true);
+  background-size: cover;
+  height: 45%;
+  width: 80%;
+  margin: 4% 10%;
+}
+
+.jumbotron-adventures p {
+  color: #000000;
+  margin: 4% 10%;
+}
+
+.jumbotron-adventures h2{
+  font-size: 45px;
+  font-weight: 500;
+  padding-top: 10%;
+  text-shadow: 0.25px 0.25px 0.25px #000000;/*black*/
+  color: #FFFF00; /*yellow*/
+  background: url(https://github.com/JackSayles/Images/blob/master/2017%20Lookout%2050%20Miler%20Elevation.png?raw=true) center;
+  height: 360px;
+  width: 1280;
+  margin-top:10%;
+}
+
+.container-adventures #footpic {
+  display: flex;
+  position: relative;
+  align-items: top center;
+  background-image: url(https://github.com/JackSayles/Images/blob/master/Josh%20and%20I%2011-14-15.jpg?raw=true);
+  background-size: cover;
+  height: 449px;
+  width: 598px;
+  margin: 0% 20%;
+  }
