@@ -41,3 +41,10 @@
   width: 598px;
   margin: 0% 20%;
   }
+
+.container-scar {
+  display: flex;
+  position:relative;
+  align-items:top;
+  margin-top:2.5%;
+}
