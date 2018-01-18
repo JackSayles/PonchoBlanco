@@ -47,15 +47,4 @@
   position:relative;
   align-items:top;
   margin:5% 2.5%;
-}
 
-.container-scar #buckle {
-  display: flex;
-  position: relative;
-  align-items: top center;
-  background-image: url(https://github.com/JackSayles/Images/blob/master/SCAR%20buckle.jpg?raw=true);
-  background-size: cover;
-  height: 50%;
-  width: 50%;
-  margin: 0% 20%;
-  }
